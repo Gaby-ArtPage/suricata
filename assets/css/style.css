@@ -1,0 +1,21 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Open Sans",sans-serif;
+}
+
+.navbar {
+  background: #E83E8C;
+}
+
+.navbar-brand img {
+  height: 3rem;
+}
+
+.tarjetas {
+  background: #3e88e8;
+}
+
+.navbar-brand2 img{
+  height: 4rem;
+}
